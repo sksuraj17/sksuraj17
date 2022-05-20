@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🖤, Suraj here!</h1>
+<h1 align="center">Hi🖤, Suraj here!</h1>
 <h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning **React JS. I am currently developing my skills on the MERN stack**
