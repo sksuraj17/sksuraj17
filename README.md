@@ -1,13 +1,13 @@
 <h1 align="center">Hi🖤, Suraj here!</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **React JS. I am currently developing my skills on the MERN stack**
+- 🌱 I’m currently learning - **React JS. I am currently developing my skills on the MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://sksuraj17.github.io/portfolio/](https://sksuraj17.github.io/portfolio/)
+- 👨‍💻 My entire portfolio is available at - [https://sksuraj17.github.io/portfolio/](https://sksuraj17.github.io/portfolio/)
 
-- 📫 How to reach me **surajsk2002@gmail.com**
+- 📫 How to reach me - **surajsk2002@gmail.com**
 
-- 📄 Know about my experiences [https://sksuraj17.github.io/portfolio/wp-content/uploads/2022/05/Suraj-SK_Resume.pdf](https://sksuraj17.github.io/portfolio/wp-content/uploads/2022/05/Suraj-SK_Resume.pdf)
+- 📄 Know about my experiences - [https://sksuraj17.github.io/portfolio/wp-content/uploads/2022/05/Suraj-SK_Resume.pdf](https://sksuraj17.github.io/portfolio/wp-content/uploads/2022/05/Suraj-SK_Resume.pdf)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksuraj17&label=Profile%20views&color=0e75b6&style=flat" alt="sksuraj17" /> </p>
 
