@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning - **React JS. I am currently developing my skills on the MERN stack**
 
-- 👨‍💻 My entire portfolio is available at - [https://sksuraj17.github.io/portfolio/]**(https://sksuraj17.github.io/portfolio/)**
+- 👨‍💻 My entire portfolio is available at - [https://sksuraj17.github.io/portfolio/](https://sksuraj17.github.io/portfolio/)
 
 - 📫 How to reach me - **surajsk2002@gmail.com**
 
