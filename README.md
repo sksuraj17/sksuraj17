@@ -1,7 +1,7 @@
 <h1 align="center">Hi🖤, Suraj here!</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="center" >&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></p>
 
 - 🌱 I’m currently learning - **React JS. I am currently developing my skills on the MERN stack**
 
