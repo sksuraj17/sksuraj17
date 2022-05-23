@@ -3,7 +3,7 @@
 
 <p align="center" >&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></p>
 
-- 🌱 I’m currently learning - **React JS. I am currently developing my skills on the MERN stack**
+- 🌱 I’m currently learning - **React JS**
 
 - 👨‍💻 My entire portfolio is available at - [https://sksuraj17.github.io/portfolio/](https://sksuraj17.github.io/portfolio/)
 
