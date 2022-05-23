@@ -7,7 +7,7 @@
 
 - 👨‍💻 My entire portfolio is available at - [https://sksuraj17.github.io/portfolio/](https://sksuraj17.github.io/portfolio/)
 
-- 📫 How to reach me - **surajsk2002@gmail.com**
+- 📫 Want to reach me? - **surajsk2002@gmail.com**
 
 - 📄 Know about my experiences - [https://sksuraj17.github.io/portfolio/wp-content/uploads/2022/05/Suraj-SK_Resume.pdf](https://sksuraj17.github.io/portfolio/wp-content/uploads/2022/05/Suraj-SK_Resume.pdf)
 
