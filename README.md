@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning - **React JS**
 
-- 👨‍💻 My entire portfolio is available at - [https://sksuraj17.github.io/portfolio/](https://sksuraj17.github.io/portfolio/)
+- 👨‍💻 My entire portfolio is available at - [https://surajsk.vercel.app/](https://surajsk.vercel.app/)
 
 - 📫 Want to reach me? - **surajsk2002@gmail.com**
 
