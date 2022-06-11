@@ -9,7 +9,7 @@
 
 - 📫 Want to reach me? - **surajsk2002@gmail.com**
 
-- 📄 Know about my experiences - [https://sksuraj17.github.io/portfolio/wp-content/uploads/2022/05/Suraj-SK_Resume.pdf](https://sksuraj17.github.io/portfolio/wp-content/uploads/2022/05/Suraj-SK_Resume.pdf)
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1MAw3RPuw86JckV_eRt-aB-HvS5AvO9Jr/view?usp=sharing](https://drive.google.com/file/d/1MAw3RPuw86JckV_eRt-aB-HvS5AvO9Jr/view?usp=sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksuraj17&label=Profile%20views&color=0e75b6&style=flat" alt="sksuraj17" /> </p>
 
