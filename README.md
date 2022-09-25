@@ -7,9 +7,9 @@
 
 - 👨‍💻 My complete portfolio is available at - [https://surajsk.vercel.app](https://surajsk.vercel.app)
 
-- 📫 Want to reach me? - **surajsk2002@gmail.com**
+- 📫 Wish to reach me? - **surajsk2002@gmail.com**
 
-- 📄 Know about my experiences - [https://drive.google.com/file/d/1nfkLtRGPj-yqAD4uxmIyMMtzMkko12t3/view?usp=sharing](https://drive.google.com/file/d/1nfkLtRGPj-yqAD4uxmIyMMtzMkko12t3/view?usp=sharing)
+- 📄 To know about my experiences - [https://drive.google.com/file/d/1nfkLtRGPj-yqAD4uxmIyMMtzMkko12t3/view?usp=sharing](https://drive.google.com/file/d/1nfkLtRGPj-yqAD4uxmIyMMtzMkko12t3/view?usp=sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksuraj17&label=Profile%20views&color=0e75b6&style=flat" alt="sksuraj17" /> </p>
 
