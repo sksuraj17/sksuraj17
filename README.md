@@ -3,13 +3,13 @@
 
 <p align="center" >&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></p>
 
-⦾ 🌱 I’m currently learning - **Amazon Web Services (AWS)**
+‣ 🌱 I’m currently learning - **Amazon Web Services (AWS)**
 
-⦾ 👨‍💻 My complete portfolio is available at - [https://surajsk.vercel.app](https://surajsk.vercel.app)
+‣ 👨‍💻 My complete portfolio is available at - [https://surajsk.vercel.app](https://surajsk.vercel.app)
 
-⦾ 📫 Wish to reach me? - **surajsk2002@gmail.com**
+‣ 📫 Wish to reach me? - **surajsk2002@gmail.com**
 
-⦾ 📄 Know about my experiences - [https://drive.google.com/file/d/1nfkLtRGPj-yqAD4uxmIyMMtzMkko12t3/view?usp=sharing](https://drive.google.com/file/d/1nfkLtRGPj-yqAD4uxmIyMMtzMkko12t3/view?usp=sharing)
+‣ 📄 Know about my experiences - [https://drive.google.com/file/d/1nfkLtRGPj-yqAD4uxmIyMMtzMkko12t3/view?usp=sharing](https://drive.google.com/file/d/1nfkLtRGPj-yqAD4uxmIyMMtzMkko12t3/view?usp=sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksuraj17&label=Profile%20views&color=0e75b6&style=flat" alt="sksuraj17" /> </p>
 
