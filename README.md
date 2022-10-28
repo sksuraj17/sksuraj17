@@ -3,7 +3,7 @@
 
 <p align="center" >&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></p>
 
-‣ 🌱 I’m currently learning - **Amazon Web Services (AWS)**
+‣ 🌱 I’m currently learning - **Amazon Web Services (AWS), Microsoft Azure**
 
 ‣ 👨‍💻 My complete portfolio is available at - [https://surajsk.vercel.app](https://surajsk.vercel.app)
 
