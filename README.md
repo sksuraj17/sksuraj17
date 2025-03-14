@@ -1,5 +1,5 @@
 <h1 align="center">Hi🖤, Suraj here!</h1>
-<h3 align="center">Interested in learning unlearned things.</h3>
+<h3 align="center">Interested in learning unlearned things :)</h3>
 
 <p align="center" >&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></p>
 
