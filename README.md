@@ -3,7 +3,7 @@
 
 <p align="center" >&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></p>
 
-‣ 🌱 I’m currently focusing - **Containers and kubernetes**
+‣ 🌱 I’m currently focusing - **Containerization**
 
 ‣ 📫 Wish to reach me? - **surajsk2002@gmail.com**
 
