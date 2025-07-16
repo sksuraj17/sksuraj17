@@ -5,8 +5,6 @@
 
 ‣ 🌱 I’m currently focusing - **Containerization**
 
-‣ 📫 Wish to reach me? - **surajsk2002@gmail.com**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksuraj17&label=Profile%20views&color=0e75b6&style=flat" alt="sksuraj17" /> </p>
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sksuraj17&show_icons=true&locale=en&layout=compact"</p>
